@@ -1,1 +1,1 @@
-export const message = 'сосал?'
+export const message = 'лизал?'
